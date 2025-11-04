@@ -1,1 +1,1 @@
-Цей проєкт демонструє реалізацію алгоритму бінарного пошуку на JavaScript. Бінарний пошук дозволяє знаходити елемент у відсортованому масиві значно швидше, ніж звичайний лінійний пошук — за логарифмічний час O(log n).
+This project demonstrates the implementation of a binary search algorithm in JavaScript. Binary search allows you to find an element in a sorted array much faster than a regular linear search — in logarithmic time O(log n).
