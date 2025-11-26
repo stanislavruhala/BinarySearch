@@ -18,4 +18,5 @@ function binarySearch(arr, value) {
 }
 
 const a = binarySearch(sortedArr, 68)
-console.log(a)# BinarySearch
+console.log(a)
+
